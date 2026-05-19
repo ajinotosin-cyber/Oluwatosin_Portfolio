@@ -139,3 +139,43 @@ font-size:1.5rem;
 }
 }
 
+.resume-btn{
+
+display:inline-block;
+
+padding:12px 22px;
+
+background:#0B1325;
+
+border:1px solid #4EA8FF;
+
+border-radius:12px;
+
+color:white;
+
+text-decoration:none;
+
+font-weight:600;
+
+transition:.3s;
+
+margin-top:15px;
+
+}
+
+.resume-btn:hover{
+
+background:#16365D;
+
+transform:translateY(-2px);
+
+box-shadow:
+0 0 20px rgba(
+78,
+168,
+255,
+0.35
+);
+
+}
+
