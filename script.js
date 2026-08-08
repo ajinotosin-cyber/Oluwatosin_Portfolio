@@ -1,6 +1,6 @@
 // TYPING EFFECT
 
-const text = "> whoami: Oluwatosin Ajinomisan - Security Analyst";
+const text = "> whoami: Oluwatosin Deborah - Security Analyst";
 
 let index = 0;
 
